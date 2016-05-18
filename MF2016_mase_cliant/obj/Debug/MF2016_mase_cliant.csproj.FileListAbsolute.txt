@@ -1,0 +1,8 @@
+c:\users\taiki\documents\visual studio 2015\Projects\MF2016_mase_cliant\MF2016_mase_cliant\bin\Debug\MF2016_mase_cliant.exe.config
+c:\users\taiki\documents\visual studio 2015\Projects\MF2016_mase_cliant\MF2016_mase_cliant\bin\Debug\MF2016_mase_cliant.exe
+c:\users\taiki\documents\visual studio 2015\Projects\MF2016_mase_cliant\MF2016_mase_cliant\bin\Debug\MF2016_mase_cliant.pdb
+c:\users\taiki\documents\visual studio 2015\Projects\MF2016_mase_cliant\MF2016_mase_cliant\obj\Debug\MF2016_mase_cliant.csprojResolveAssemblyReference.cache
+c:\users\taiki\documents\visual studio 2015\Projects\MF2016_mase_cliant\MF2016_mase_cliant\obj\Debug\MF2016_mase_cliant.exe
+c:\users\taiki\documents\visual studio 2015\Projects\MF2016_mase_cliant\MF2016_mase_cliant\obj\Debug\MF2016_mase_cliant.pdb
+C:\Users\taiki\Documents\Visual Studio 2015\Projects\MF2016_mase_cliant\MF2016_mase_cliant\bin\Debug\Newtonsoft.Json.dll
+C:\Users\taiki\Documents\Visual Studio 2015\Projects\MF2016_mase_cliant\MF2016_mase_cliant\bin\Debug\Newtonsoft.Json.xml
